@@ -10,7 +10,7 @@
     <td> 备注 </td>
 </tr>
 <tr>
-    <td colspan="8"> 张超老师 </td>
+    <td colspan="8"> 张超老师  http://chaozhang.org</td>
 </tr>
 <tr>
     <td>STREAMCUBE: Hierarchical Spatio-temporal Hashtag  Clustering for Event Exploration over the Twitter Stream </td>
@@ -86,7 +86,7 @@
     <td> 与电子所&张伟老师处理一致</td>
 </tr>
 <tr>
-    <td colspan="8">tweetnlp </td>
+    <td colspan="8"><center> tweetnlp https://meta-guide.com/natural-language/nlp/tweetnlp </center></td>
 </tr>
 <tr>
     <td>vent Detection in Twitter using Aggressive Filtering and Hierarchical Tweet Clustering </td>
