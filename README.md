@@ -10,7 +10,7 @@
     <td> 备注 </td>
 </tr>
 <tr>
-    <td colspan="8"> 张超老师  http://chaozhang.org</td>
+    <td colspan="8"> <center>  张超老师  http://chaozhang.org </center> </td>
 </tr>
 <tr>
     <td>STREAMCUBE: Hierarchical Spatio-temporal Hashtag  Clustering for Event Exploration over the Twitter Stream </td>
