@@ -20,39 +20,51 @@
     <td> </td>
     <td> </td>
 </tr>
-</table>
-
-<table>
 <tr>
-    <td rowspan="7"> 文件状态：<br/>
-        [√] 草稿<br/>
-        [√] 正在修改<br/>
-        [√] 正式发布 </td>
-    <td>文件标识：</td>
+    <td>TrioVecEvent: Embedding-Based Online Local Event Detection in Geo-Tagged Tweet Streams</td>
+    <td> KDD</td>
+    <td> 2017</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
     <td> </td>
 </tr>
 <tr>
-    <td>当前版本：</td>
-    <td>2.7</td>
+    <td>Leveraging the Power of Informative Users for Local Event Detection</td>
+    <td> ASONAM</td>
+    <td> 2018</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
 </tr>
 <tr>
-    <td>作    者：</td>
-    <td></td>
+    <td>pen-Schema Event Profiling for Massive News Corpora </td>
+    <td> CIKM</td>
+    <td> 2018</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
 </tr>
 <tr>
-    <td>创建日期：</td>
-    <td></td>
+    <td>GeoBurst: Real-Time Local Event Detection in Geo-Tagged Tweet Streams</td>
+    <td> SIGIR</td>
+    <td> 2016</td>
+    <td> zxl </td>
+    <td> 是 </td>
+    <td> https://github.com/franticnerd/geoburst & https://github.com/aditi098/GeoBurst </td>
+    <td> No </td>
 </tr>
 <tr>
-    <td>最后更新：</td>
-    <td></td>
-</tr>
-<tr>
-    <td>密    级：</td>
-    <td></td>
-</tr>
-<tr>
-    <td>版权说明：</td>
-    <td></td>
+    <td>GeoBurst+: Effective and Real-Time Local Event Detection in Geo-Tagged Tweet Stream</td>
+    <td> TIST</td>
+    <td> 2017</td>
+    <td> zxl </td>
+    <td> 是 </td>
+    <td> </td>
+    <td> </td>
 </tr>
 </table>
+
+
