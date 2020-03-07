@@ -5,10 +5,20 @@
     <td> 年份 </td>
     <td> 阅读完成 </td>
     <td> 适用 </td>
-    <td> 资源 </td>
+    <td> 代码开源</td>
+    <td> 数据集开源 </td>
 </tr>
 <tr>
-    <td colspan="2"> 张超老师 </td>
+    <td colspan="7"> 张超老师 </td>
+</tr>
+<tr>
+    <td>STREAMCUBE: Hierarchical Spatio-temporal Hashtag  Clustering for Event Exploration over the Twitter Stream </td>
+    <td> ICDE</td>
+    <td> 2015</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
 </tr>
 </table>
 
