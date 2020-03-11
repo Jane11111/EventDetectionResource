@@ -26,31 +26,31 @@
     <td>TrioVecEvent: Embedding-Based Online Local Event Detection in Geo-Tagged Tweet Streams</td>
     <td> KDD</td>
     <td> 2017</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> YJH</td>
+    <td> Yes</td>
+    <td> NO</td>
+    <td> NO</td>
+    <td> GeoBurst等方法的进步版</td>
 </tr>
 <tr>
     <td>Leveraging the Power of Informative Users for Local Event Detection</td>
     <td> ASONAM</td>
     <td> 2018</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> YJH</td>
+    <td> YES</td>
+    <td> NO</td>
+    <td> No</td>
+    <td>在KDD的方法上,增加了对用户信息的度量 </td>
 </tr>
 <tr>
     <td>pen-Schema Event Profiling for Massive News Corpora </td>
     <td> CIKM</td>
     <td> 2018</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> YJH</td>
+    <td> NO</td>
+    <td> https://tonyyuango.github.io/tonyyuango.github.io/files/datacode.html</td>
+    <td> YES</td>
+    <td>方法针对新闻预料等更为规整的数据集 </td>
 </tr>
 <tr>
     <td>GeoBurst: Real-Time Local Event Detection in Geo-Tagged Tweet Streams</td>
