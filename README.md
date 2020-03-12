@@ -125,7 +125,7 @@
     <td>SEDTWik: Segmentation-based Event Detection from Tweets Using Wikipedia. </td>
     <td>NAACL </td>
     <td>2019 </td>
-    <td> </td>
+    <td>SMY</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -175,7 +175,7 @@
     <td> DeepUrbanEvent: A System for Predicting Citywide Crowd Dynamics at Big Events</td>
     <td> KDD</td>
     <td> 2019</td>
-    <td> </td>
+    <td> SMY</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -195,7 +195,7 @@
     <td> MiST: A Multiview and Multimodal Spatial-Temporal Learning Framework for Citywide Abnormal Event Forecasting</td>
     <td> WWW </td>
     <td> 2019 </td>
-    <td> </td>
+    <td> SMY</td>
     <td> </td>
     <td> </td>
     <td> </td>
@@ -205,7 +205,7 @@
     <td> Event Detection using Hierarchical Multi-Aspect Attention</td>
     <td> WWW </td>
     <td> 2019 </td>
-    <td> </td>
+    <td> SMY</td>
     <td> </td>
     <td> </td>
     <td> </td>
