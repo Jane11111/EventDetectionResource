@@ -89,14 +89,14 @@
     <td colspan="8"><center> tweetnlp https://meta-guide.com/natural-language/nlp/tweetnlp </center></td>
 </tr>
 <tr>
-    <td>vent Detection in Twitter using Aggressive Filtering and Hierarchical Tweet Clustering </td>
+    <td>Event Detection in Twitter using Aggressive Filtering and Hierarchical Tweet Clustering </td>
     <td> WWW</td>
     <td> 2014</td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td> LX</td>
+    <td> YES</td>
+    <td> YES</td>
+    <td> NO</td>
+    <td>https://github.com/heerme 推文数据获取code给了一个链接</td>
 </tr>
 <tr>
     <td>A Participant-based Approach for Event Summarization Using Twitter Streams</td>
